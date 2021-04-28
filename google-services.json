@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "849013594971",
+    "project_id": "realtimetictactoe-fb987",
+    "storage_bucket": "realtimetictactoe-fb987.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849013594971:android:7cb17614238d9ef516587e",
+        "android_client_info": {
+          "package_name": "com.gupta.realtimetictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849013594971-7gprfqicili6jlgvmu846ht3q217js2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOb4lxyk8_nHq82FFT4VQNBOFPKRES96U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849013594971-7gprfqicili6jlgvmu846ht3q217js2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
